@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hiroyha2/Space%20Game%20-%20web%20-Pipeline/_apis/build/status/levi106.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/hiroyha2/Space%20Game%20-%20web%20-Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
